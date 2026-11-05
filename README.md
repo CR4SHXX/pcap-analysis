@@ -33,6 +33,14 @@ Ce projet est consacre a l'analyse du trafic reseau a partir de fichiers PCAP po
 
 ## 2. Environnement d'analyse
 
+| Element | Description |
+|---|---|
+| Systeme d'exploitation | Windows 11 |
+| Fichiers analyses | PCAP / PCAPNG |
+| Analyse du trafic | Wireshark, tshark |
+| Analyse des logs reseau | Zeek |
+| Terminal et scripting | PowerShell |
+
 ## 3. Methodologie d'investigation
 
 ## 4. Outils et technologies
